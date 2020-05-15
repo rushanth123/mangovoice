@@ -1,0 +1,23 @@
+body{
+  background-image: url("src/background.png");
+background-size: cover;
+}
+
+.tamil-content{
+  font-size: 3em;
+  color: #2ca8c9;
+}
+
+.vocabulary-image{
+  width: 20em;
+}
+.color{
+  display: none;
+}
+
+.show {
+  display: flex;
+}
+/* .colors{
+  display: flex;
+} */
